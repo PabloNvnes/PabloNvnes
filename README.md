@@ -3,10 +3,8 @@ Analista de dados e aspirante ao aprendizado de máquina e energia solar. Atualm
 - 👨🏻‍💻 **Analista** de Dados no Itaú
 - 👨🏻‍💻 **Gestor** da equipe de  Ciência de Dados na Universidade Federal do ABC
 - 🧗🏼 Apaixonado por **games** e **academia**
-<div style="display: inline">
-  &nbsp;&nbsp;<href="pablonunes1500@gmail.com" />&nbsp;&nbsp;
-  &nbsp;&nbsp;
-</div> 
+- Email: <a href="pablonunes1500@gmail.com">pablonunes1500@gmail.com</a>
+
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
