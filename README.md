@@ -7,7 +7,7 @@ Analista de dados e aspirante ao aprendizado de máquina e energia solar. Atualm
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="<svg xmlns="http://www.w3.org/2000/svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="Apache Spark.png" />&nbsp;&nbsp;
 </div> 
 
 ##
